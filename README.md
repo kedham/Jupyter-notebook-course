@@ -25,7 +25,7 @@ Course given by Compute Lund2020
    must create a QIIME 2 artifact by importing our fastq.gz data files.
 
    Format description:
-    • Since we have already demultiplexed fastq sequence data, we use Casava 1.8 paired-end demultiplexed fastq to import the 
+    • Since I have already demultiplexed fastq sequence data, I use Casava 1.8 paired-end demultiplexed fastq to import the 
       data.
     • In the Casava 1.8 paired-end demultiplexed fastq format, there are two-fastq.gz file for each sample in the study, and  
       the file name includes the sample identifier.
